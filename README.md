@@ -1,2 +1,2 @@
-# landing-page
- Landing Page project from The Odin Project's curriculum.
+# portfolio
+page for my portfolio, under construction
